@@ -1,1 +1,51 @@
 /* your code here */
+
+*{
+	padding:0;
+	margin:0;
+}
+
+.top{
+	display:flex;
+	justify-content:space-between;
+	margin-bottom:16px;
+}
+
+svg{
+	cursor:pointer;
+}
+
+li{
+	list-style-type:none;
+	font-size:12px
+}
+
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+}
+
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color:#71797E;
+	color:lightgray;
+	padding:10px;
+	font-size:12px;
+}
+
+.head{
+	font-size:15px;
+	font-weight:bold;
+	border-bottom:1px solid white;
+}
+
+li{
+	margin:10px;
+}
+
+.content{
+	background-color:black;
+	color:lightgray;
+	padding:20px;
+}
