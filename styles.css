@@ -5,6 +5,10 @@
 	margin:0;
 }
 
+.media-icons{
+	display:flex;
+}
+
 .top{
 	display:flex;
 	justify-content:space-between;
